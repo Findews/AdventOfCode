@@ -1,0 +1,4 @@
+
+
+advent-of-code-data==2.0.2
+ipykernel==6.18.3
